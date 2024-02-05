@@ -258,16 +258,16 @@ html, body {
 .hero img {
     height: 650px;
     border: 1px solid transparent;
-    box-shadow: 0 0 20px rgba(240, 237, 237, 0.7); /* Initially transparent border */
+    box-shadow: 0 0 20px rgba(146, 143, 143, 0.7);  /* Initially transparent border */
     /* box-shadow: 0 0 10px rgba(0, 0, 0, 0); Initially transparent box shadow */
     /* transition: transform 0.5s ease-in-out, border-color 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
 } */
 }
 
-.hero img:hover {
+/* .hero img:hover {
 
     box-shadow: 0 0 20px rgba(146, 143, 143, 0.7); 
-}
+} */
 
 
 
